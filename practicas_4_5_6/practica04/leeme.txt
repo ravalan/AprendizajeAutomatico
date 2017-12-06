@@ -1,0 +1,4 @@
+
+No se facilita código. Se debe aprovechar lo realizado en la práctica 3
+y consultar el manual de Scikit-Learn según se indica en la práctica.
+
